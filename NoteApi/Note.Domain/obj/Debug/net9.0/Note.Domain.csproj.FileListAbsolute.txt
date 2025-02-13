@@ -1,0 +1,11 @@
+C:\Users\dmitr\source\repos\Project Notes\NoteApi\Note.Domain\bin\Debug\net9.0\Note.Domain.deps.json
+C:\Users\dmitr\source\repos\Project Notes\NoteApi\Note.Domain\bin\Debug\net9.0\Note.Domain.dll
+C:\Users\dmitr\source\repos\Project Notes\NoteApi\Note.Domain\bin\Debug\net9.0\Note.Domain.pdb
+C:\Users\dmitr\source\repos\Project Notes\NoteApi\Note.Domain\obj\Debug\net9.0\Note.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitr\source\repos\Project Notes\NoteApi\Note.Domain\obj\Debug\net9.0\Note.Domain.AssemblyInfoInputs.cache
+C:\Users\dmitr\source\repos\Project Notes\NoteApi\Note.Domain\obj\Debug\net9.0\Note.Domain.AssemblyInfo.cs
+C:\Users\dmitr\source\repos\Project Notes\NoteApi\Note.Domain\obj\Debug\net9.0\Note.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\source\repos\Project Notes\NoteApi\Note.Domain\obj\Debug\net9.0\Note.Domain.dll
+C:\Users\dmitr\source\repos\Project Notes\NoteApi\Note.Domain\obj\Debug\net9.0\refint\Note.Domain.dll
+C:\Users\dmitr\source\repos\Project Notes\NoteApi\Note.Domain\obj\Debug\net9.0\Note.Domain.pdb
+C:\Users\dmitr\source\repos\Project Notes\NoteApi\Note.Domain\obj\Debug\net9.0\ref\Note.Domain.dll

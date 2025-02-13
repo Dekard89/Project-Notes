@@ -1,0 +1,17 @@
+C:\Users\dmitr\source\repos\Project Notes\NoteApi\Note.BLL\bin\Debug\net9.0\Note.BLL.deps.json
+C:\Users\dmitr\source\repos\Project Notes\NoteApi\Note.BLL\bin\Debug\net9.0\Note.BLL.dll
+C:\Users\dmitr\source\repos\Project Notes\NoteApi\Note.BLL\bin\Debug\net9.0\Note.BLL.pdb
+C:\Users\dmitr\source\repos\Project Notes\NoteApi\Note.BLL\bin\Debug\net9.0\Note.DAL.dll
+C:\Users\dmitr\source\repos\Project Notes\NoteApi\Note.BLL\bin\Debug\net9.0\Note.Domain.dll
+C:\Users\dmitr\source\repos\Project Notes\NoteApi\Note.BLL\bin\Debug\net9.0\Note.DAL.pdb
+C:\Users\dmitr\source\repos\Project Notes\NoteApi\Note.BLL\bin\Debug\net9.0\Note.Domain.pdb
+C:\Users\dmitr\source\repos\Project Notes\NoteApi\Note.BLL\obj\Debug\net9.0\Note.BLL.csproj.AssemblyReference.cache
+C:\Users\dmitr\source\repos\Project Notes\NoteApi\Note.BLL\obj\Debug\net9.0\Note.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitr\source\repos\Project Notes\NoteApi\Note.BLL\obj\Debug\net9.0\Note.BLL.AssemblyInfoInputs.cache
+C:\Users\dmitr\source\repos\Project Notes\NoteApi\Note.BLL\obj\Debug\net9.0\Note.BLL.AssemblyInfo.cs
+C:\Users\dmitr\source\repos\Project Notes\NoteApi\Note.BLL\obj\Debug\net9.0\Note.BLL.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\source\repos\Project Notes\NoteApi\Note.BLL\obj\Debug\net9.0\Note.BLL.csproj.Up2Date
+C:\Users\dmitr\source\repos\Project Notes\NoteApi\Note.BLL\obj\Debug\net9.0\Note.BLL.dll
+C:\Users\dmitr\source\repos\Project Notes\NoteApi\Note.BLL\obj\Debug\net9.0\refint\Note.BLL.dll
+C:\Users\dmitr\source\repos\Project Notes\NoteApi\Note.BLL\obj\Debug\net9.0\Note.BLL.pdb
+C:\Users\dmitr\source\repos\Project Notes\NoteApi\Note.BLL\obj\Debug\net9.0\ref\Note.BLL.dll
